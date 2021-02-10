@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.react-logo {
+  width: 30%;
+}
+
+.react-logo {
+  width: 50%;
+
+}
+  
+.red {
+color : rosybrown;
+font-size: 50px;
+font-family: 'Courier New', Courier, monospace;
+font-style: normal;
+text-shadow: slategray;
+
+}
